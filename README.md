@@ -1,9 +1,5 @@
 A simple social media/photo sharing app built with AWS Amplify and React
 
-Currently deployed at:
-
-https://master.dgaju6uqhmz9d.amplifyapp.com/
-
 AppSync/GraphQL schema:
 
 ```
